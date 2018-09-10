@@ -1,4 +1,4 @@
-let recipes {
+let recipes = {
   'egg' : 3,
   'milk': '3 cups'
 };
